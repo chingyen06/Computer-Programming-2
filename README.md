@@ -10,6 +10,8 @@
 |:--------:|:-------:|:--------:|
 | 01 | [一元二次方程式(實根+虛根)](/01/README.md) | [github page](/01) |
 | 02 | [棒球壘包](/02/README.md) | [github page](/02) |
+| 03 | [集合運算](/03/README.md) | [github page](/03) |
+| 04 | [BMI](/04/README.md) | [github page](/04) |
 
 
 ### 額外補充
