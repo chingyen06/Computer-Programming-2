@@ -31,12 +31,14 @@ Sample Input:
 6. 直角三角形:輸出Right Triangle。  
   
 範例輸出說明:  
+```
 Isosceles Triangle  
 Obtuse Triangle  
 **  
 Equilateral Triangle  
 Isosceles Triangle  
-Acute Triangle  
+Acute Triangle
+```
   
 【測試資料一】  
 輸入：  
@@ -45,18 +47,23 @@ Acute Triangle
 2 2 5  
   
 輸出：  
+```
 Not Triangle  
 **  
-Not Triangle  
+Not Triangle
+```
+  
 【測試資料二】  
 輸入：  
 1  
 6 6 6  
   
 輸出：  
+```
 Equilateral Triangle  
 Isosceles Triangle  
-Acute Triangle  
+Acute Triangle
+```
   
 【測試資料三】  
 輸入：  
@@ -66,11 +73,13 @@ Acute Triangle
 3 7 12  
   
 輸出：  
+```
 Obtuse Triangle  
 ***  
 Acute Triangle  
 ***  
-Not Triangle  
+Not Triangle
+```  
 【測試資料四】  
 輸入：  
 4  
@@ -80,6 +89,7 @@ Not Triangle
 3 4 5  
   
 輸出：  
+```
 Equilateral Triangle  
 Isosceles Triangle  
 Acute Triangle  
@@ -89,3 +99,4 @@ Right Triangle
 Acute Triangle  
 ****  
 Right Triangle  
+```
