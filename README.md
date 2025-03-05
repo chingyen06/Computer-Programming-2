@@ -12,7 +12,10 @@
 | 02 | [棒球壘包](/02/README.md) | [github page](/02) |
 | 03 | [集合運算](/03/README.md) | [github page](/03) |
 | 04 | [BMI](/04/README.md) | [github page](/04) |
-
+| 05 | [最佳資費選擇](/05/README.md) | [github page](/05) |
+| 06 | [撲克牌](/06/README.md) | [github page](/06) |
+| 07 | [複合圖型繪圖](/07/README.md) | [github page](/07) |
+| 08 | [判斷何種三角形](/08/README.md) | [github page](/08) |
 
 ### 額外補充
 內容 | 解答 |
