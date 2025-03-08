@@ -17,8 +17,8 @@
 | 07 | [複合圖型繪圖](/07/README.md) | [github page](/07) |
 | 08 | [判斷何種三角形](/08/README.md) | [github page](/08) |
 | 09 | [狀態轉換機](/09/README.md) | [github page](/09) |
-| 10 | [複合圖型繪圖](/10/README.md) | [github page](/10) |
-| 11 | [判斷何種三角形](/11/README.md) | [github page](/11) |
+| 10 | [無](/10/README.md) | [github page](/10) |
+| 11 | [無](/11/README.md) | [github page](/11) |
 
 ### 額外補充
 內容 | 解答 |
