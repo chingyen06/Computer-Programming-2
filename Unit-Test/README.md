@@ -22,3 +22,16 @@ R2D2 - Identifier
 0.23 - Positive Floating  
 -1.2 - Negative Floating  
 5a - Error  
+
+-----------------------------------------------------------------------------------------------
+
+解答
+Google Test 結果：  
+(第 1 段) **N / A**  
+(第 2 段) **N / A**    
+
+function 結果 (source code)：  
+(第 1 段) **N / A**  
+(第 2 段) **N / A**  
+
+測資 結果 (source code)： **N / A**  
