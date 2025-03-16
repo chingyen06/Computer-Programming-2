@@ -33,12 +33,12 @@ int main()
     x = to_int(X);
     y = to_int(Y);
 
-    if (((int) (x*10))%10 == 0)  //X¨S¦³¤p¼ÆÂI
+    if (((int) (x*10))%10 == 0)  //Xæ²’æœ‰å°æ•¸é»
         printf("%.f\n", x);
     else
         printf("%.1f\n", x);
 
-    if (((int) (y*10))%10 == 0)  //Y¨S¦³¤p¼ÆÂI
+    if (((int) (y*10))%10 == 0)  //Yæ²’æœ‰å°æ•¸é»
         printf("%.f\n", y);
     else
         printf("%.1f\n", y);
