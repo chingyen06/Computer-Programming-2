@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>LCOV - ut.info - /mnt/c/Users/john1/Desktop/googleTest/ut.cpp</title>
+  <link rel="stylesheet" type="text/css" href="../../../../../../gcov.css">
+</head>
+
+<body>
+
+  <table width="100%" border=0 cellspacing=0 cellpadding=0>
+    <tr><td class="title">LCOV - code coverage report</td></tr>
+    <tr><td class="ruler"><img src="../../../../../../glass.png" width=3 height=3 alt=""></td></tr>
+
+    <tr>
+      <td width="100%">
+        <table cellpadding=1 border=0 width="100%">
+          <tr>
+            <td width="10%" class="headerItem">Current view:</td>
+            <td width="35%" class="headerValue"><a href="../../../../../../index.html">top level</a> - <a href="index.html">mnt/c/Users/john1/Desktop/googleTest</a> - ut.cpp<span style="font-size: 80%;"> (source / <a href="ut.cpp.func-sort-c.html">functions</a>)</span></td>
+            <td width="5%"></td>
+            <td width="15%"></td>
+            <td width="10%" class="headerCovTableHead">Hit</td>
+            <td width="10%" class="headerCovTableHead">Total</td>
+            <td width="15%" class="headerCovTableHead">Coverage</td>
+          </tr>
+          <tr>
+            <td class="headerItem">Test:</td>
+            <td class="headerValue">ut.info</td>
+            <td></td>
+            <td class="headerItem">Lines:</td>
+            <td class="headerCovTableEntry">13</td>
+            <td class="headerCovTableEntry">13</td>
+            <td class="headerCovTableEntryHi">100.0 %</td>
+          </tr>
+          <tr>
+            <td class="headerItem">Date:</td>
+            <td class="headerValue">2025-03-11 19:48:17</td>
+            <td></td>
+            <td class="headerItem">Functions:</td>
+            <td class="headerCovTableEntry">7</td>
+            <td class="headerCovTableEntry">7</td>
+            <td class="headerCovTableEntryHi">100.0 %</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="headerItem">Branches:</td>
+            <td class="headerCovTableEntry">26</td>
+            <td class="headerCovTableEntry">108</td>
+            <td class="headerCovTableEntryLo">24.1 %</td>
+          </tr>
+          <tr><td><img src="../../../../../../glass.png" width=3 height=3 alt=""></td></tr>
+        </table>
+      </td>
+    </tr>
+
+    <tr><td class="ruler"><img src="../../../../../../glass.png" width=3 height=3 alt=""></td></tr>
+  </table>
+
+  <table cellpadding=0 cellspacing=0 border=0>
+    <tr>
+      <td><br></td>
+    </tr>
+    <tr>
+      <td>
+<pre class="sourceHeading">           Branch data     Line data    Source code</pre>
+<pre class="source">
+<a name="1"><span class="lineNum">       1 </span>                :            : #include &lt;cstdlib&gt;</a>
+<span class="lineNum">       2 </span>                :            : #include &lt;gtest/gtest.h&gt;
+<a name="3"><span class="lineNum">       3 </span>                :            : #include &quot;type.h&quot;</a>
+<span class="lineNum">       4 </span>                :            : 
+<span class="lineNum">       5 </span>[<span class="branchCov" title="Branch 5 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 6 was not taken"> - </span>][<span class="branchCov" title="Branch 8 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 9 was not taken"> - </span>]:<span class="lineCov">          8 : TEST( multest , HandleNonZeroInput ) {</span>
+<span class="lineNum">         </span>        [<span class="branchCov" title="Branch 11 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 12 was not taken"> - </span>]
+<span class="lineNum">       6 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :         EXPECT_STREQ(&quot;rate - Identifier\nR2D2 - Identifier\n-22 - Negative Integer\n555666 - Positive Integer\n0.23 - Positive Floating\n-1.2 - Negative Floating\n5a - Error\n&quot;, mul(&quot;rate R2D2 -22 555666 0.23 -1.2 5a #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<span class="lineNum">       7 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :     EXPECT_STREQ(&quot;0.123 - Positive Floating\n0.1 - Positive Floating\n1.123 - Positive Floating\n3.2 - Positive Floating\n15.123 - Positive Floating\n33.2 - Positive Floating\n&quot;, mul(&quot;0.123 0.1 1.123 3.2 15.123 33.2 #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<span class="lineNum">       8 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :     EXPECT_STREQ(&quot;-0.456 - Error\n-0.2 - Error\n-1.456 - Negative Floating\n-7.4 - Negative Floating\n-7.43 - Negative Floating\n-783.17 - Negative Floating\n-783.176 - Negative Floating\n-389.5 - Negative Floating\n-38.5 - Negative Floating\n-123.456 - Negative Floating\n-0.123 - Error\n-9.876 - Negative Floating\n&quot;, mul(&quot;-0.456 -0.2 -1.456 -7.4 -7.43 -783.17 -783.176 -389.5 -38.5 -123.456 -0.123 -9.876 #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<span class="lineNum">       9 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :     EXPECT_STREQ(&quot;0 - Positive Integer\n1 - Positive Integer\n17 - Positive Integer\n845 - Positive Integer\n123 - Positive Integer\n4567 - Positive Integer\n&quot;, mul(&quot;0 1 17 845 123 4567 #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<span class="lineNum">      10 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :         EXPECT_STREQ(&quot;-297 - Negative Integer\n-6 - Negative Integer\n-92 - Negative Integer\n-3495 - Negative Integer\n-99999 - Negative Integer\n-1 - Negative Integer\n-17 - Negative Integer\n-845 - Negative Integer\n-123 - Negative Integer\n-4567 - Negative Integer\n&quot;, mul(&quot;-297 -6 -92 -3495 -99999 -1 -17 -845 -123 -4567 #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<span class="lineNum">      11 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :         EXPECT_STREQ(&quot;_ewe2 - Identifier\nAweDds3 - Identifier\naSDFE_ - Identifier\naS87E_ - Identifier\n___ - Identifier\n__abc - Identifier\na_ - Identifier\nAT - Identifier\nAa - Identifier\nA2 - Identifier\nb3 - Identifier\nbb - Identifier\nbU - Identifier\n_9 - Identifier\n_ - Identifier\nC - Identifier\nz - Identifier\na - Identifier\n_a - Identifier\nz9 - Identifier\na_b - Identifier\nA_ - Identifier\n&quot;, mul(&quot;_ewe2 AweDds3 aSDFE_ aS87E_ ___ __abc a_ AT Aa A2 b3 bb bU _9 _ C z a _a z9 a_b A_ #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<span class="lineNum">      12 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 4 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 5 was not taken"> - </span>]:<span class="lineCov">          1 :         EXPECT_STREQ(&quot;342Abs - Error\n@dsikw - Error\n2342. - Error\n.34we - Error\n0.3we - Error\n@ - Error\n- - Error\nA@ - Error\ni@ - Error\n_@ - Error\n@_ - Error\n9abc - Error\n-0001 - Error\n. - Error\n-. - Error\n0. - Error\n0..1 - Error\n[ - Error\n~ - Error\nA! - Error\nb; - Error\nA] - Error\nb~ - Error\n-a - Error\n12.3.4 - Error\n-1..23 - Error\n&quot;, mul(&quot;342Abs @dsikw 2342. .34we 0.3we @ - A@ i@ _@ @_ 9abc -0001 . -. 0. 0..1 [ ~ A! b; A] b~ -a 12.3.4 -1..23 #&quot;));</span>
+<span class="lineNum">         </span>[<span class="branchNoCov" title="Branch 7 was not taken"> - </span><span class="branchCov" title="Branch 8 was taken 1 time"> + </span>][<span class="branchNoExec" title="Branch 10 was not executed"> # </span><span class="branchNoExec" title="Branch 11 was not executed"> # </span>]
+<span class="lineNum">         </span>[<span class="branchNoExec" title="Branch 13 was not executed"> # </span><span class="branchNoExec" title="Branch 14 was not executed"> # </span>][<span class="branchNoExec" title="Branch 16 was not executed"> # </span><span class="branchNoExec" title="Branch 17 was not executed"> # </span>]
+<span class="lineNum">         </span>        [<span class="branchNoExec" title="Branch 19 was not executed"> # </span><span class="branchNoExec" title="Branch 20 was not executed"> # </span>]
+<a name="13"><span class="lineNum">      13 </span>                :<span class="lineCov">          1 : }</span></a>
+<span class="lineNum">      14 </span>                :            : 
+<span class="lineNum">      15 </span>                :<span class="lineCov">          1 : int main( int argc , char **argv ){</span>
+<a name="16"><span class="lineNum">      16 </span>                :<span class="lineCov">          1 :     testing :: InitGoogleTest( &amp;argc , argv ) ;</span></a>
+<span class="lineNum">      17 </span>                :<span class="lineCov">          1 :     return RUN_ALL_TESTS( ) ;</span>
+<span class="lineNum">      18 </span>[<span class="branchCov" title="Branch 1 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 2 was not taken"> - </span>][<span class="branchCov" title="Branch 3 was taken 1 time"> + </span><span class="branchNoCov" title="Branch 4 was not taken"> - </span>]:<span class="lineCov">          4 : }</span>
+</pre>
+      </td>
+    </tr>
+  </table>
+  <br>
+
+  <table width="100%" border=0 cellspacing=0 cellpadding=0>
+    <tr><td class="ruler"><img src="../../../../../../glass.png" width=3 height=3 alt=""></td></tr>
+    <tr><td class="versionInfo">Generated by: <a href="http://ltp.sourceforge.net/coverage/lcov.php" target="_parent">LCOV version 1.13</a></td></tr>
+  </table>
+  <br>
+
+</body>
+</html>

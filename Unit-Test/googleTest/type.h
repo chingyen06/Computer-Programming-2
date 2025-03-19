@@ -1,0 +1,1 @@
+const char* mul(const char *key);
