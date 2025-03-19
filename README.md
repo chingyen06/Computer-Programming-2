@@ -19,6 +19,10 @@
 | 09 | [狀態轉換機](/09/README.md) | [github page](/09) |
 | 10 | [電路](/10/README.md) | [github page](/10) |
 | 11 | [葛雷碼](/11/README.md) | [github page](/11) |
+| 12 | [反轉字串](/12/README.md) | [github page](/12) |
+| 13 | [進制轉換](/13/README.md) | [github page](/13) |
+| 14 | [分數四則運算](/14/README.md) | [github page](/14) |
+| 15 | [直線方程式](/15/README.md) | [github page](/15)
 
 ### 額外補充
 內容 | 解答 |
