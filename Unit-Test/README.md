@@ -24,3 +24,7 @@ R2D2 - Identifier
 5a - Error  
 
 -----------------------------------------------------------------------------------------------
+
+解答
+![圖片1](https://github.com/chingyen06/Computer-Programming-2/blob/main/Unit-Test/%E5%A0%B1%E8%A1%A81.png)
+![圖片2](https://github.com/chingyen06/Computer-Programming-2/blob/main/Unit-Test/%E5%A0%B1%E8%A1%A82.png)
