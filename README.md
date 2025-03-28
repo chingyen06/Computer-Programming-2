@@ -22,7 +22,33 @@
 | 12 | [反轉字串](/12/README.md) | [github page](/12) |
 | 13 | [進制轉換](/13/README.md) | [github page](/13) |
 | 14 | [分數四則運算](/14/README.md) | [github page](/14) |
-| 15 | [直線方程式](/15/README.md) | [github page](/15)
+| 15 | [直線方程式](/15/README.md) | [github page](/15) |
+| 16 | [大數運算](/16/README.md) | [github page](/16) |
+| 17 | [籃球比賽](/17/README.md) | [github page](/17) |
+| 18 | [分散度](/18/README.md) | [github page](/18) |
+| == | ===== | ===== |
+| 19 | [無](/19/README.md) | [github page](/19) |
+| 20 | [無](/20/README.md) | [github page](/20) |
+| 21 | [無](/21/README.md) | [github page](/21) |
+| 22 | [無](/22/README.md) | [github page](/22) |
+| 23 | [無](/23/README.md) | [github page](/23) |
+| 24 | [無](/24/README.md) | [github page](/24) |
+| 25 | [無](/25/README.md) | [github page](/25) |
+| 26 | [無](/26/README.md) | [github page](/26) |
+| 27 | [無](/27/README.md) | [github page](/27) |
+| 28 | [無](/28/README.md) | [github page](/28) |
+| 29 | [無](/29/README.md) | [github page](/29) |
+| 30 | [無](/30/README.md) | [github page](/30) |
+| 31 | [無](/31/README.md) | [github page](/31) |
+| 32 | [無](/32/README.md) | [github page](/32) |
+| 33 | [無](/33/README.md) | [github page](/33) |
+| 34 | [無](/34/README.md) | [github page](/34) |
+| 35 | [無](/35/README.md) | [github page](/35) |
+| 36 | [無](/36/README.md) | [github page](/36) |
+| 37 | [無](/37/README.md) | [github page](/37) |
+| 38 | [無](/38/README.md) | [github page](/38) |
+| 39 | [無](/39/README.md) | [github page](/39) |
+| 40 | [無](/40/README.md) | [github page](/40) |
 
 ### 額外補充
 內容 | 解答 |
