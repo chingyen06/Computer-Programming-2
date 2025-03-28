@@ -56,3 +56,4 @@
 | [整數相除為浮點數](/int_to_double/README.md) | [github page](/int_to_double) |
 | [單元測試](/Unit-Test/README.md) | [github page](/Unit-Test) |
 | [含有空白的字串輸入](/string_with_space/README.md) | [github page](/string_with_space) |
+| [標準化字串(對應14題)](/sscanf/README.md) | [github page](/sscanf) |
