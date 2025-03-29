@@ -26,9 +26,9 @@
 | 16 | [大數運算](/16/README.md) | [github page](/16) |
 | 17 | [籃球比賽](/17/README.md) | [github page](/17) |
 | 18 | [分散度](/18/README.md) | [github page](/18) |
+| 19 | [大數除法](/19/README.md) | [github page](/19) |
+| 20 | [骰子](/20/README.md) | [github page](/20) |
 | == | ===== | ===== |
-| 19 | [無](/19/README.md) | [github page](/19) |
-| 20 | [無](/20/README.md) | [github page](/20) |
 | 21 | [無](/21/README.md) | [github page](/21) |
 | 22 | [無](/22/README.md) | [github page](/22) |
 | 23 | [無](/23/README.md) | [github page](/23) |
