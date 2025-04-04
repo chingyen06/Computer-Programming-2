@@ -12,34 +12,34 @@ int main()
     for (i=0;i<n;i++) {
         scanf(" %c %c", &ch1, &ch2);
 
-        team1 = ch1 - 'A';  //╤╓╔Н1
-        team2 = ch2 - 'A';  //╤╓╔Н2
+        team1 = ch1 - 'A';  //И ┼Д╪█1
+        team2 = ch2 - 'A';  //И ┼Д╪█2
 
-        //╔╩╖╫╠o╓юбk╧s
+        //Ф°╛Е╠─Е╬≈Е┬├Ф╜╦И⌡╤
         point1 = 0;
         point2 = 0;
 
         for (j=0;j<4;j++) {
             scanf("%d %d", &p1, &p2);
 
-            //╔╩ЁУ╓ю╪ф╔[╓J╔╩╖╫╓ю╪ф
+            //Ф°╛Е═╢Е┬├Ф∙╦Е┼═Е┘╔Ф°╛Е╠─Е┬├Ф∙╦
             point1 += p1;
             point2 += p2;
         }
 
-        //╔╩╖╫╠o╓ю╔[╓Jа`╠o╓ю
+        //Ф°╛Е╠─Е╬≈Е┬├Е┼═Е┘╔Г╦╫Е╬≈Е┬├
         point[team1] += point1;
         point[team2] += point2;
 
-        if (point1 > point2)  //╤╓╔Н1д╧
+        if (point1 > point2)  //И ┼Д╪█1Х╢▐
             win[team1]++;
-        else  //╤╓╔Н2д╧
+        else  //И ┼Д╪█2Х╢▐
             win[team2]++;
     }
 
     for (i=1;i<=2;i++)
         if (win[i] > win[max])
-            max = i;  //max ╕sЁсЁУ╕h╙╨╤╓╔Н
+            max = i;  //max Е╜≤Е▀²Е═╢Е╓ Г └И ┼Д╪█
 
     printf("%c %d", max+'A', point[max]);
 
