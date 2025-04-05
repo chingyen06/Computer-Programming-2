@@ -57,3 +57,4 @@
 | [單元測試](/Unit-Test/README.md) | [github page](/Unit-Test) |
 | [含有空白的字串輸入](/string_with_space/README.md) | [github page](/string_with_space) |
 | [標準化字串(對應14題)](/sscanf/README.md) | [github page](/sscanf) |
+| [美麗的彩帶(類似18題，困難版)](/e289/README.md) | [github page](/e289) |
