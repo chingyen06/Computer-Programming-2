@@ -28,10 +28,10 @@
 | 18 | [分散度](/18/README.md) | [github page](/18) |
 | 19 | [大數除法](/19/README.md) | [github page](/19) |
 | 20 | [骰子](/20/README.md) | [github page](/20) |
+| 21 | [排序演算法](/21/README.md) | [github page](/21) |
+| 22 | [DF-expression](/22/README.md) | [github page](/22) |
+| 23 | [反序](/23/README.md) | [github page](/23) |
 | == | ===== | ===== |
-| 21 | [無](/21/README.md) | [github page](/21) |
-| 22 | [無](/22/README.md) | [github page](/22) |
-| 23 | [無](/23/README.md) | [github page](/23) |
 | 24 | [無](/24/README.md) | [github page](/24) |
 | 25 | [無](/25/README.md) | [github page](/25) |
 | 26 | [無](/26/README.md) | [github page](/26) |
