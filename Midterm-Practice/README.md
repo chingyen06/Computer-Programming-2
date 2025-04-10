@@ -8,6 +8,6 @@
 | 02 | [骰子遊戲](https://github.com/chingyen06/Computer-Programming-2/blob/main/20/README.md) | [github page](https://github.com/chingyen06/Computer-Programming-2/blob/main/20) |
 | 03 | [籃球比賽](https://github.com/chingyen06/Computer-Programming-2/blob/main/17/README.md) | [github page](https://github.com/chingyen06/Computer-Programming-2/blob/main/17) |
 | 04 | [DF-Expression](https://github.com/chingyen06/Computer-Programming-2/blob/main/22/README.md) | [github page](https://github.com/chingyen06/Computer-Programming-2/blob/main/22) |
-| 05 | [分數四則運算](/05/README.md) | [github page](/05) |
-| 06 | [有限狀態機](/06/README.md) | [github page](/06) |
+| 05 | [分數四則運算](https://github.com/chingyen06/Computer-Programming-2/blob/main/14/README.md) | [github page](https://github.com/chingyen06/Computer-Programming-2/blob/main/14) |
+| 06 | [魔術方塊](/06/README.md) | [github page](/06) |
 | 07 | [長浮點數大數運算](/07/README.md) | [github page](/07) |
