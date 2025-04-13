@@ -58,3 +58,6 @@
 | [含有空白的字串輸入](/string_with_space/README.md) | [github page](/string_with_space) |
 | [標準化字串(對應14題)](/sscanf/README.md) | [github page](/sscanf) |
 | [美麗的彩帶(類似18題，困難版)](/e289/README.md) | [github page](/e289) |
+
+**使用 vscode 執行時，可在 command prompt 輸入 gcc 檔名1.c -o 檔名2 生成 檔名2.exe**  
+**第二行輸入 檔名2 < 檔名3.txt 輸入 txt 內的資料當測資**
