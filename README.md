@@ -32,8 +32,8 @@
 | 22 | [DF-expression](/22/README.md) | [github page](/22) |
 | 23 | [反序](/23/README.md) | [github page](/23) |
 | 24 | [魔術方塊](/24/README.md) | [github page](/24) |
+| 25 | [五子棋](/25/README.md) | [github page](/25) |
 | == | ===== | ===== |
-| 25 | [無](/25/README.md) | [github page](/25) |
 | 26 | [無](/26/README.md) | [github page](/26) |
 | 27 | [無](/27/README.md) | [github page](/27) |
 | 28 | [無](/28/README.md) | [github page](/28) |
