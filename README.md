@@ -33,11 +33,11 @@
 | 23 | [反序](/23/README.md) | [github page](/23) |
 | 24 | [魔術方塊](/24/README.md) | [github page](/24) |
 | 25 | [五子棋](/25/README.md) | [github page](/25) |
+| 26 | [騎車](/26/README.md) | [github page](/26) |
+| 27 | [多重單詞操作](/27/README.md) | [github page](/27) |
+| 28 | [交錯字串](/28/README.md) | [github page](/28) |
+| 29 | [梯形法則定積分計算](/29/README.md) | [github page](/29) |
 | == | ===== | ===== |
-| 26 | [無](/26/README.md) | [github page](/26) |
-| 27 | [無](/27/README.md) | [github page](/27) |
-| 28 | [無](/28/README.md) | [github page](/28) |
-| 29 | [無](/29/README.md) | [github page](/29) |
 | 30 | [無](/30/README.md) | [github page](/30) |
 | 31 | [無](/31/README.md) | [github page](/31) |
 | 32 | [無](/32/README.md) | [github page](/32) |
