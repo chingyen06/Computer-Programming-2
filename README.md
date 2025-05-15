@@ -37,10 +37,10 @@
 | 27 | [多重單詞操作](/27/README.md) | [github page](/27) |
 | 28 | [交錯字串](/28/README.md) | [github page](/28) |
 | 29 | [梯形法則定積分計算](/29/README.md) | [github page](/29) |
+| 30 | [棒球遊戲](/30/README.md) | [github page](/30) |
+| 31 | [分數對照表](/31/README.md) | [github page](/31) |
+| 32 | [班級資料統計](/32/README.md) | [github page](/32) |
 | == | ===== | ===== |
-| 30 | [無](/30/README.md) | [github page](/30) |
-| 31 | [無](/31/README.md) | [github page](/31) |
-| 32 | [無](/32/README.md) | [github page](/32) |
 | 33 | [無](/33/README.md) | [github page](/33) |
 | 34 | [無](/34/README.md) | [github page](/34) |
 | 35 | [無](/35/README.md) | [github page](/35) |
