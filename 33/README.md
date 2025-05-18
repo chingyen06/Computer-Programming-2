@@ -46,7 +46,7 @@ void CreateGate(Gate *obj, char type, int input1, int input2) {
 ...  
 }  
   
-  
+![圖片](https://edu.filexl.com/uploads/curcuit-diagram.png)
   
 【輸入說明】  
 第一行：輸入三個整數，代表X1, X2, X3的數值，中間以空白隔開(範圍:0~7)  
