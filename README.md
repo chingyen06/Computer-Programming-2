@@ -40,9 +40,9 @@
 | 30 | [棒球遊戲](/30/README.md) | [github page](/30) |
 | 31 | [分數對照表](/31/README.md) | [github page](/31) |
 | 32 | [班級資料統計](/32/README.md) | [github page](/32) |
+| 33 | [邏輯電路圖](/33/README.md) | [github page](/33) |
+| 34 | [工作排程](/34/README.md) | [github page](/34) |
 | == | ===== | ===== |
-| 33 | [無](/33/README.md) | [github page](/33) |
-| 34 | [無](/34/README.md) | [github page](/34) |
 | 35 | [無](/35/README.md) | [github page](/35) |
 | 36 | [無](/36/README.md) | [github page](/36) |
 | 37 | [無](/37/README.md) | [github page](/37) |
