@@ -9,6 +9,7 @@ Triangle（三角形）
 計算各個圖形的周長與面積，以及所有圖形的周長加總與面積加總。  
   
 圖形的程式碼架構參考範例如下：  
+```
 #define ShapeText(TYPE) char name[10];  
 double (*perimeter)(struct TYPE*);  
 double (*area)(struct TYPE*)  
@@ -20,7 +21,8 @@ ShapeText(shape_s);
 typedef struct circle_s {  
 ShapeText(circle_s);  
 double radius;  
-} circle_t;  
+} circle_t;
+```
   
 圖形的種類以代號輸入，對應圖形的代號如下：  
 C：圓形，結構內容具有 1 個 radius 屬性 (圓周率PI請使用3.14)  
