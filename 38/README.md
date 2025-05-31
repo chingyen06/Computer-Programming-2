@@ -22,9 +22,9 @@ print：將串列中所有節點資料從前端到尾端依序每行輸出data�
   
 【輸入說明】  
 第一行，輸入一整數 N ( 1 <= N <= 20 )，代表有N個操作。  
-第二行~第2+N行，輸入操作的種類  
-addFront：將資料放入串列前端（最前面），不進行輸出。格式為 addFront data，其中 data 為整數，範圍為 0~100。  
-addBack：將資料放入串列尾端（最後面），不進行輸出。格式為 addBack data，其中 data 為整數，範圍為 0~100。  
+第二行 ~ 第2+N行，輸入操作的種類  
+addFront：將資料放入串列前端（最前面），不進行輸出。格式為 addFront data，其中 data 為整數，範圍為 0 ~ 100。  
+addBack：將資料放入串列尾端（最後面），不進行輸出。格式為 addBack data，其中 data 為整數，範圍為 0 ~ 100。  
 removeFront：將最前端節點刪除，假如串列為空則輸出 "Double link list is empty"，非空則不進行輸出。  
 removeBack：將最後端節點刪除，假如串列為空則輸出 "Double link list is empty"，非空則不進行輸出。  
 empty：刪除串列中所有節點，假如串列為空則輸出 "Double link list is empty"，非空則不進行輸出。  
