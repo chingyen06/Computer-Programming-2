@@ -44,10 +44,10 @@
 | 34 | [工作排程](/34/README.md) | [github page](/34) |
 | 35 | [多項式相加](/35/README.md) | [github page](/35) |
 | 36 | [專案時程](/36/README.md) | [github page](/36) |
+| 37 | [Stack & Queue](/37/README.md) | [github page](/37) |
+| 38 | [Double Link List](/38/README.md) | [github page](/38) |
+| 39 | [圖形結構](/39/README.md) | [github page](/39) |
 | == | ===== | ===== |
-| 37 | [無](/37/README.md) | [github page](/37) |
-| 38 | [無](/38/README.md) | [github page](/38) |
-| 39 | [無](/39/README.md) | [github page](/39) |
 | 40 | [無](/40/README.md) | [github page](/40) |
 
 ### 額外補充
