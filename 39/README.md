@@ -10,17 +10,17 @@ Triangle（三角形）
   
 圖形的程式碼架構參考範例如下：  
 ```
-#define ShapeText(TYPE) char name[10];  
-double (*perimeter)(struct TYPE*);  
-double (*area)(struct TYPE*)  
+#define ShapeText(TYPE) char name[10];
+double (*perimeter)(struct TYPE*);
+double (*area)(struct TYPE*)
+
+typedef struct shape_s {
+ShapeText(shape_s);
+} shape_t;
   
-typedef struct shape_s {  
-ShapeText(shape_s);  
-} shape_t;  
-  
-typedef struct circle_s {  
-ShapeText(circle_s);  
-double radius;  
+typedef struct circle_s {
+ShapeText(circle_s);
+double radius;
 } circle_t;
 ```
   
