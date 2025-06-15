@@ -47,8 +47,8 @@
 | 37 | [Stack & Queue](/37/README.md) | [github page](/37) |
 | 38 | [Double Link List](/38/README.md) | [github page](/38) |
 | 39 | [圖形結構](/39/README.md) | [github page](/39) |
-| == | ===== | ===== |
 | 40 | [無](/40/README.md) | [github page](/40) |
+| 41 | [無](/41/README.md) | [github page](/41) |
 
 ### 額外補充
 內容 | 解答 |
