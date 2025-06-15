@@ -12,9 +12,9 @@
 1 代表城市 1 和城市 3 的距離是 1,  
 -1 代表城市 1 無法抵達城市 4  
   
+![圖片](https://imgur.com/EO4GGig.png)
   
-  
-  
+![圖片](https://imgur.com/J2wnqRp.png)
   
 【輸入說明】  
 第一行輸入一個整數N代表有幾座塔(N <= 10)  
